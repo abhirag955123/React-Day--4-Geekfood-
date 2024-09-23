@@ -14,7 +14,7 @@ function Navbar() {
           </div>
           <nav className="nav">
             <ul>
-              <li><a href="/">Home</a></li>
+              <li><a href="Home.js">Home</a></li>
               <li><a href="/quote">Quote</a></li>
               <li><a href="/resturants">Restaurants</a></li>
               <li><a href="/foods">Foods</a></li>

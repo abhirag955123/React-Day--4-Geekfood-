@@ -1,0 +1,56 @@
+.footer {
+    background-color: white;
+    color: rgb(128, 118, 118);
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 50px;
+  }
+  
+  
+  .footer-top {
+    margin-bottom: 20px;
+  }
+  
+  .footer h2 {
+    margin: 0;
+    font-size: 2rem;
+    color:  rgb(13, 8, 72);
+  }
+  
+  .footer-text {
+    margin: 10px 0;
+  }
+  
+  .footer-links {
+    margin: 20px 0;
+  }
+  
+  .footer-links a {
+    color: rgb(128, 118, 118);
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links a:hover {
+    color: #007bff; /* Hover color for links */
+  }
+  
+  .footer-socials {
+    margin-top: 30px;
+  }
+  
+  .footer-socials a {
+    color: rgb(128, 118, 118);
+    font-size: 1.5rem;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  .footer-socials a:hover {
+    color: #007bff; /* Hover color for social media icons */
+  }
+  
+  /* Optional: FontAwesome icons */
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
